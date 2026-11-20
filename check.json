@@ -1,0 +1,17 @@
+{
+  "command": [
+    "{python}",
+    "app.py"
+  ],
+  "expected": {
+    "charges": [
+      350,
+      150,
+      300,
+      50,
+      275
+    ],
+    "paid": 1125,
+    "saved": 375
+  }
+}
